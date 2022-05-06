@@ -1,4 +1,4 @@
-# Speak-English-
+# Speak-English
 
 link-->@SpeakEnglishDastur_bot
 Bu bot nima qilaoladi. 
