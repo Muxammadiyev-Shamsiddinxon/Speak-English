@@ -6,7 +6,7 @@ from oxfordLookup import getDefinitions
 from googletrans import Translator
 translator = Translator()
 
-API_TOKEN = '5305329403:AAETJtzNs5CW-xeuMZOiv3cXA_CVzVrLBiM'
+API_TOKEN = 'tokiningiz'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
