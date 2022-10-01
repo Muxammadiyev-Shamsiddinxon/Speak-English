@@ -6,7 +6,7 @@ from oxfordLookup import getDefinitions
 from googletrans import Translator
 translator = Translator()
 
-API_TOKEN = 'tokiningiz'
+API_TOKEN = 'bot tokiningiz'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
